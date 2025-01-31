@@ -12,10 +12,13 @@
 ## 💻 Sobre mí
 
 Soy Francisco, un desarrollador Fullstack con experiencia en la creación de aplicaciones web y móviles. Actualmente trabajo en proyectos como:
-- Un **sistema de reservas hoteleras**.
-- Un **sistema de gestión para restaurantes**.
-- Una **plataforma eCommerce**.
-
+- **Software de reservas hoteleras**.
+- **API para la generación de licencias**.
+- **Sistema de gestión para restaurantes**.
+- **api eCommerce**.
+- **Plataforma de carga (loading page)**.
+- **Plataforma de seguridad ciudadana**.
+- **api gestor de tareas**.
 Mi stack principal incluye **React** para el frontend y **Spring Boot** para el backend, utilizando bases de datos como **MySQL** y **SQL Server**. Me gusta escribir código limpio y eficiente, mejorar la experiencia del usuario y optimizar el rendimiento de las aplicaciones.
 
 ## 🔧 Habilidades y Tecnologías
