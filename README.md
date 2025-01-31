@@ -1,94 +1,82 @@
 <div align="center">
- <h1>ESTE README AÚN SE ENCUENTRA EN EDICIÓN</h1>
-       <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hola,+bienvenido+a+mi+perfil!" alt="Hola, bienvenido a mi perfil">
+ <h1>¡Hola, soy Francisco! 👋</h1>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2338C2FF&size=45&center=true&vCenter=true&width=1000&lines=Desarrollador+Fullstack+|+React+|+Spring+Boot+|+Java+|+eCommerce+|+Hotel+Management" alt="typing-intro">
 </div>
 
 <br>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/fly.webp" height="120px" />
+    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="150px" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> About Me
+## Sobre mí 👨‍💻
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
+Soy Francisco, un desarrollador **Fullstack** apasionado por la tecnología y el desarrollo de software. Actualmente, me encuentro trabajando en diversos proyectos como un **sistema de reservas hoteleras** y una **plataforma eCommerce**, donde utilizo **React** para el frontend y **Spring Boot** en el backend. Me especializo en mejorar la experiencia del usuario, la eficiencia del código y en construir soluciones que hagan la diferencia.
 
-- 🔭 Actualmente estoy trabajando en el desarrollo de un **sistema de reservas de hotel**.
-- 🌱 Estoy aprendiendo y utilizando **React**, **Spring Boot**, y **JPA** en mis proyectos.
-- 👯 Estoy abierto a colaborar en proyectos de **desarrollo fullstack** y **gestión de datos**.
-- ⚙️ Utilizo tecnologías diariamente como: `.js`, `.jsx`, `.css`, `.java`, `.ts`, **Spring Boot**, **JPA**, **React**, **Bootstrap**.
-- 💬 No dudes en contactarme sobre **Java**, **Spring Boot**, **React**, **desarrollo backend** o **gestión de reservas**.
-- 📚 Además, me interesa la **protección de datos** y las implicaciones legales y financieras que conlleva.
-- 🎯 Estoy creando un **curso práctico de Spring Boot** en el cual busco enseñar desde lo básico hasta la documentación de APIs con **Swagger/OpenAPI**.
+### 🔭 Proyectos actuales:
+- Sistema de gestión de reservas hoteleras: un sistema integral para la administración de habitaciones, usuarios y pagos.
+- Desarrollo de una plataforma eCommerce con Spring Boot, optimizando la gestión de productos, ventas y clientes.
+- Sistema de gestión de mesas y pedidos en un restaurante, mejorando la eficiencia en la comunicación entre meseros y cocina.
 
-</td>
-<td width="50%" align="center">
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-</td>
-</tr>
-</table>
+### 🚀 Habilidades clave:
+- **Frontend:** React, JavaScript, HTML, CSS, Bootstrap.
+- **Backend:** Spring Boot, JPA, MySQL.
+- **DevOps:** Gradle, Git, manejo de bases de datos.
+- **Intereses:** Protección de datos, documentación de APIs y automatización de procesos.
 
-## <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"></img> Languages and Tools
+<p align="center">
+  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="600px"/>
+</p>
 
-<p align="left">
+## Tecnologías que utilizo ⚙️
+
+<p align="center">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
     </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring-boot" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="50" height="50"/>
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+    <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
     </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
+    <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
     </a>
 </p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> My Statistics
+## Mis estadísticas 📊
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Francisco&theme=chartreuse-dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Francisco streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Francisco&theme=chartreuse-dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Francisco&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  </td>
-</tr>
-</table>
-
-<p >
-    <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
-    </picture>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Francisco&show_icons=true&theme=radical" alt="Mis estadísticas de GitHub" width="500px">
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Francisco&theme=radical" alt="Mis streaks" width="500px">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco&layout=compact&theme=radical" alt="Lenguajes más utilizados" width="500px">
 </p>
 
-## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> Connect with me
+## Conecta conmigo 🤝
 
 <p align="center">
   <a href="https://linkedin.com/in/francisco" target="_blank">
-    <img align="center" alt="francisco | linkedin" width="24px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/linkedin.svg" />
+    <img align="center" alt="LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="mailto:francisco@gmail.com" target="_blank">
+    <img align="center" alt="Correo" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
   <a href="https://github.com/francisco" target="_blank">
-    <img align="center" alt="francisco | github" width="24px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github.svg" />
+    <img align="center" alt="GitHub" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
-  <a href="mailto:francisco@gmail.com">
-    <img align="center" alt="francisco | email" width="24px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/mail.svg" />
-  </a>
+</p>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 </p>
