@@ -75,7 +75,7 @@ Si deseas colaborar en un proyecto o tienes alguna consulta, ¡no dudes en conta
     <a href="https://www.linkedin.com/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://your-portfolio-website.com](https://main--frand3v.netlify.app/inicio" target="_blank">
+    <a href="https://main--frand3v.netlify.app/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=pfsense&logoColor=white" alt="Portfolio">
     </a>
 </div>
