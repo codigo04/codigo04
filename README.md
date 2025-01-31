@@ -1,6 +1,6 @@
 <div align="center">
  <h1>¡Hola, soy Francisco! 👋</h1>
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2338C2FF&size=45&center=true&vCenter=true&width=1000&lines=Desarrollador+Fullstack+|+React+|+Spring+Boot+|+Java+|+eCommerce+|+Hotel+Management" alt="typing-intro">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2338C2FF&size=45&center=true&vCenter=true&width=1000&lines=Desarrollador+Fullstack+|+React+|+Spring+Boot+|+Java+" alt="typing-intro">
 </div>
 
 <br>
