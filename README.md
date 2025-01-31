@@ -1,6 +1,7 @@
 <div align="center">
  <h1>ESTE README AUN SE ECUNTRA EN EDICION</h1>
-       <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+ashu+guo;TN+is+me!!!;Welcome+to+my+pSrofile!" alt="Title"></img>
+       <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hola,+bienvenido+a+mi+perfil!" alt="Hola, bienvenido a mi perfil">
+
 </div>
 
 <br>
