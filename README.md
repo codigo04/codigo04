@@ -2,25 +2,42 @@
 
 <div align="center" style="background-color: #f5f5f5; padding: 20px; font-family: Arial, sans-serif;">
     <p style="font-size: 20px; color: #777;">Desarrollador Fullstack | React | Spring Boot | Java | MySQL | SQL Server</p>
-
    <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=50&color=39FF14&background=000000&center=true&vCenter=true&width=800&lines=%3E+Soy+Desarrollador+Full+Stack.;%3E+Apasionado+por+crear+aplicaciones+escalables+y+eficientes." alt="Typing SVG">
-</p>
-
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=50&color=39FF14&background=000000&center=true&vCenter=true&width=800&lines=%3E+Soy+Desarrollador+Full+Stack.;%3E+Apasionado+por+crear+aplicaciones+escalables+y+eficientes." alt="Typing SVG">
+   </p>
 </div>
+
+---
 
 ## 💻 Sobre mí
 
-Soy Francisco, un desarrollador Fullstack con experiencia en la creación de aplicaciones web y móviles. Actualmente trabajo en proyectos como:
-- **Software de reservas hoteleras**.
-- **API para la generación de licencias**.
-- **Sistema de gestión para restaurantes**.
-- **api eCommerce**.
-- **Plataforma de carga (loading page)**.
-- **Plataforma de seguridad ciudadana**.
-- **api gestor de tareas**.
-Mi stack principal incluye **React** para el frontend y **Spring Boot** para el backend, utilizando bases de datos como **MySQL** y **SQL Server**. Me gusta escribir código limpio y eficiente, mejorar la experiencia del usuario y optimizar el rendimiento de las aplicaciones.
+<p align="center">
+  <img src="https://img.shields.io/badge/Fullstack_Developer-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Fullstack Developer">
+</p>
 
+<p align="center">
+  <strong>¡Hola! Soy Francisco</strong>, desarrollador Fullstack con experiencia en aplicaciones web.  
+  Me especializo en construir soluciones eficientes, escalables y de alto rendimiento.
+</p>
+
+---
+
+## 🚀 Proyectos en los que he trabajado
+<div align="center">
+    
+| Proyecto                                  | Descripción |
+|------------------------------------------|-------------------------------------------|
+| 💼 **Software de reservas hoteleras** | 📅 Gestión de reservas y administración hotelera. |
+| 🛠️ **API para la generación de licencias** | 🔑 Emisión y validación de licencias digitales. |
+| 🍽️ **Sistema de gestión para restaurantes** | 📋 Administración de pedidos, mesas y clientes. |
+| 🛒 **API eCommerce** | 📋 Gestion de productos  |
+| ⚡ **Plataforma de carga (loading page)** | ⏳ Optimización de la visualización de contenido. |
+| 🛡️ **Plataforma de seguridad ciudadana** | 🚨 Gestión de reportes y alertas en tiempo real. |
+| 📌 **API gestor de tareas** | ✅ Organización y seguimiento de tareas. |
+
+
+---
+</div>
 ## 🔧 Habilidades y Tecnologías
 
 ### 🎨 Frontend  
@@ -58,14 +75,23 @@ Mi stack principal incluye **React** para el frontend y **Spring Boot** para el 
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
+### 📚 Aprendiendo desarrollo móvil
+<p>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+</p>
 
-## 📊 Estadísticas
+---
+
+## 📊 Estadísticas de mis repositorios publicos
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Francisco&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 500px; margin: 20px auto;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Francisco&theme=radical" alt="Streak Stats" style="max-width: 500px; margin: 20px auto;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco&layout=compact&theme=radical" alt="Top Langs" style="max-width: 500px; margin: 20px auto;">
+    <img src="https://github-readme-stats.vercel.app/api?username=codigo04&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 500px; margin: 10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=codigo04&theme=radical" alt="Streak Stats" style="max-width: 500px; margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codigo04&layout=compact&theme=radical" alt="Top Langs" style="max-width: 500px; margin: 10px;">
 </div>
+
+
+---
 
 ## 📩 Contacto
 
@@ -78,12 +104,14 @@ Si deseas colaborar en un proyecto o tienes alguna consulta, ¡no dudes en conta
     <a href="https://www.linkedin.com/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-   <a href="https://main--frand3v.netlify.app/" target="_blank" rel="noopener noreferrer">
+   <a href="https://main--frand3v.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=pfsense&logoColor=white" alt="Portfolio">
-</a>
+   </a>
 
-</div>
+
+---
 
 <p align="right">
-    <a><img src="https://komarev.com/ghpvc/?username=dante-barreda&style=for-the-badge" alt="Profile views" height="25" /></a>
+    <img src="https://komarev.com/ghpvc/?username=dante-barreda&style=for-the-badge" alt="Profile views" height="25" />
 </p>
+
