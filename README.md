@@ -2,7 +2,7 @@
     <h1 style="font-size: 48px; font-weight: bold; color: #333;">¡Hola, soy Francisco! 👋</h1>
     <p style="font-size: 20px; color: #777;">Desarrollador Fullstack | React | Spring Boot | Java | eCommerce | Hotel Management</p>
     <div style="margin: 40px 0;">
-        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" style="border-radius: 20px; width: 300px;" alt="developer-gif" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+a+Full+Stack+Developer.">
     </div>
 </div>
 
