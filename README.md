@@ -67,17 +67,11 @@
     </div>
 </div>
 
-<div style="background-color: #f5f5f5; padding: 50px; text-align: center; font-family: Arial, sans-serif;">
-    <h2 style="font-size: 36px; color: #333;">Conecta conmigo 🤝</h2>
-    <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-        <a href="https://linkedin.com/in/francisco" target="_blank" style="text-decoration: none;">
-            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="50"/>
-        </a>
-        <a href="mailto:francisco@gmail.com" target="_blank" style="text-decoration: none;">
-            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" width="50"/>
-        </a>
-        <a href="https://github.com/francisco" target="_blank" style="text-decoration: none;">
-            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" width="50"/>
-        </a>
-    </div>
-</div>
+<p align="right">
+  <span>
+    <a target="_blank"><img src="https://komarev.com/ghpvc/?username=dante-barreda&style=for-the-badge" alt="Profile views" height="25" /></a>
+    <a href="mailto:examplem@gmail.com?subject=Hello%20UserName"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="25" /></a>
+    <a href="https://your-portfolio-website.com" target="_blank"><img src="https://img.shields.io/badge/portfolio-%2324292e.svg?&style=for-the-badge&logo=pfsense&logoColor=white&logoSize=30" alt="Portfolio" height="25" /></a>
+    <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25" /></a>
+  </span>
+</p>
