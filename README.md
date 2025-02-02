@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Fullstack_Developer-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Fullstack Developer">
 </p>
 
-## 🚀 Proyectos en los que he trabajado
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>  Proyectos en los que he trabajado
 <div align="center">
     
 | Proyecto                                  | Descripción |
@@ -27,7 +27,7 @@
 
 ---
 </div>
-## 🔧 Habilidades y Tecnologías
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> <strong>🔧 Habilidades y Tecnologías </strong>
 
 ### 🎨 Frontend  
 <p>
@@ -71,7 +71,7 @@
 
 ---
 
-## 📊 Estadísticas de mis repositorios publicos
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 📊 Estadísticas de mis repositorios publicos
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=codigo04&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 500px; margin: 10px;">
@@ -82,7 +82,7 @@
 
 ---
 
-## 📩 Contacto
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 📩 Contacto
 
 Si deseas colaborar en un proyecto o tienes alguna consulta, ¡no dudes en contactarme!
 
