@@ -1,26 +1,15 @@
-# ¡Hola, soy Francisco! 👋
-
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> ¡Hola, soy Francisco! 👋
 <div align="center" style="background-color: #f5f5f5; padding: 20px; font-family: Arial, sans-serif;">
-    <p style="font-size: 20px; color: #777;">Desarrollador Fullstack | React | Spring Boot | Java | MySQL | SQL Server</p>
+
    <p align="center">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=50&color=39FF14&background=000000&center=true&vCenter=true&width=800&lines=%3E+Soy+Desarrollador+Full+Stack.;%3E+Apasionado+por+crear+aplicaciones+escalables+y+eficientes." alt="Typing SVG">
    </p>
 </div>
 
----
-
-## 💻 Sobre mí
-
 <p align="center">
   <img src="https://img.shields.io/badge/Fullstack_Developer-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Fullstack Developer">
 </p>
-
-<p align="center">
-  <strong>¡Hola! Soy Francisco</strong>, desarrollador Fullstack con experiencia en aplicaciones web.  
-  Me especializo en construir soluciones eficientes, escalables y de alto rendimiento.
-</p>
-
----
 
 ## 🚀 Proyectos en los que he trabajado
 <div align="center">
