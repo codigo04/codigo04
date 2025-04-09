@@ -64,7 +64,7 @@
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
-### 📚 Aprendiendo desarrollo móvil
+### desarrollo móvil
 <p>
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
 </p>
